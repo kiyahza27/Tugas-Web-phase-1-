@@ -6,8 +6,8 @@
     ILMU KOMPUTER 2018
 
 # Video Penggunaan Aplikasi TOPPAY
-    YOUTUBE 
-    https://youtu.be/GwyrC8N5Fxg
+YOUTUBE 
+https://youtu.be/GwyrC8N5Fxg
 
 # Packages Necessity
     Python 3
