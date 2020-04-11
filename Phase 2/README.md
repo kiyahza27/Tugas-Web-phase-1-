@@ -22,6 +22,7 @@ https://youtu.be/GwyrC8N5Fxg
 3. sign up/sign in sesuai kebutuhan, yaitu user dan admin
 
 # Hal Yang dibutuhkan Untuk Install Cassandra
+
 1.Java JRE
 2.Python 2.7 (untuk cqlsh)
 3.Apache Cassandra
