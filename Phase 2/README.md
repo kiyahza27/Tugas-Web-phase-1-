@@ -9,9 +9,6 @@ ILMU KOMPUTER 2018
 YOUTUBE 
 https://youtu.be/GwyrC8N5Fxg
 
-IG TV
-https://www.instagram.com/tv/B-2LnktgkaG/?igshid=14o3iaczvmxcy
-
 # Hal Yang dibutuhkan Untuk Install Cassandra
 
 1.Java JRE
