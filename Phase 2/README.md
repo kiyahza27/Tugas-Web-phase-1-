@@ -1,3 +1,5 @@
+*program dijalankan pada python 3
+
 # Video Penggunaan Aplikasi TOPPAY
 
 
