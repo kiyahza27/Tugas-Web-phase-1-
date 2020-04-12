@@ -1,4 +1,6 @@
-# Tugas-Web-phase-1-
+# Tugas-Web (TOPPAY APLIKASI)
+# First Phase berada di Branch First Phase
+# Second Phase berada di Branch First Phase
 
 # APLIKASI TOPPAY
 aplikasi ini dibuat untuk pengguna yang ingin membeli pulsa hp atau pulsa listrik secara online. aplikasi ini diharapkan mampu memudahkan pengguna dalam pembelian pulsa hp ataupun pulsa listrik.
