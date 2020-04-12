@@ -1,7 +1,0 @@
-Daftar Akun
-
-ADMIN:
-admin1 = {(username, nama, password, nomor_hp) VALUES ("admin1", "zakiyah", "admin1001", "08199887766"))}
-
-Customer: 
-customer1 = {(username, nama, password, nomor_hp) VALUES ("lia10", "lia", "lia001", "081122334455"))}
