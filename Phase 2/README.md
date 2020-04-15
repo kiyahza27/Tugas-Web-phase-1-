@@ -12,7 +12,6 @@ https://youtu.be/GwyrC8N5Fxg
 # Packages Necessity
     Python 3
     Cassandra
-    Apache Thrift
     Library: tkinter
 
 # How To Run App
